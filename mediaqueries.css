@@ -1,0 +1,17 @@
+/* ===============================RESPONSIVE WEB=============================== */
+
+/* -------------------------ESCRITORIOS MUY GRANDES------------------------- */
+
+@media (min-width: 1200px) {}
+
+/* -------------------------TABLETS EN HORIZONTAL Y ESCRITORIOS NORMALES------------------------- */
+
+@media (min-width: 768px) and (max-width: 1199px) {}
+
+/* -------------------------MOVILES EN HORIZONTAL O TABLET EN VERTICAL------------------------- */
+
+@media (max-width: 767px) {}
+
+/* -------------------------MOVILES EN VERTICAL------------------------- */
+
+@media (max-width: 480px) {}
